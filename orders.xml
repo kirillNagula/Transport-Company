@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orders>
+    <order id="1">
+        <cityFrom>Минск</cityFrom>
+        <cityTo>Санкт-Петербург</cityTo>
+        <distance>693.0</distance>
+        <price>38115</price>
+        <time>0.7</time>
+        <transport id="7">
+            <name>БОИНГ 737-300</name>
+            <numPassenger>280</numPassenger>
+            <numWeight>32000</numWeight>
+            <priceByKm>55</priceByKm>
+            <speed>950</speed>
+            <transportType>
+                <type_transport>Воздушный транспорт</type_transport>
+            </transportType>
+        </transport>
+    </order>
+    <order id="2">
+        <cityFrom>Минск</cityFrom>
+        <cityTo>Санкт-Петербург</cityTo>
+        <distance>693.0</distance>
+        <price>693</price>
+        <time>6.9</time>
+        <transport id="13">
+            <name>МАЗ автобус</name>
+            <numPassenger>60</numPassenger>
+            <numWeight>3000</numWeight>
+            <priceByKm>1</priceByKm>
+            <speed>100</speed>
+            <transportType>
+                <type_transport>Наземный транспорт</type_transport>
+            </transportType>
+        </transport>
+    </order>
+    <order id="3">
+        <cityFrom>Минск</cityFrom>
+        <cityTo>Санкт-Петербург</cityTo>
+        <distance>693.0</distance>
+        <price>58905</price>
+        <time>0.9</time>
+        <transport id="9">
+            <name>Ан-225 «Мрия»</name>
+            <numPassenger>14</numPassenger>
+            <numWeight>250000</numWeight>
+            <priceByKm>85</priceByKm>
+            <speed>750</speed>
+            <transportType>
+                <type_transport>Воздушный транспорт</type_transport>
+            </transportType>
+        </transport>
+    </order>
+    <order id="4">
+        <cityFrom>Минск</cityFrom>
+        <cityTo>Копенгаген</cityTo>
+        <distance>978.0</distance>
+        <price>53790</price>
+        <time>1.0</time>
+        <transport id="7">
+            <name>БОИНГ 737-300</name>
+            <numPassenger>280</numPassenger>
+            <numWeight>32000</numWeight>
+            <priceByKm>55</priceByKm>
+            <speed>950</speed>
+            <transportType>
+                <type_transport>Воздушный транспорт</type_transport>
+            </transportType>
+        </transport>
+    </order>
+    <order id="5">
+        <cityFrom>Минск</cityFrom>
+        <cityTo>Копенгаген</cityTo>
+        <distance>978.0</distance>
+        <price>17604</price>
+        <time>11.5</time>
+        <transport id="4">
+            <name>МАЗ-2</name>
+            <numPassenger>2</numPassenger>
+            <numWeight>40000</numWeight>
+            <priceByKm>18</priceByKm>
+            <speed>85</speed>
+            <transportType>
+                <type_transport>Наземный транспорт</type_transport>
+            </transportType>
+        </transport>
+    </order>
+</orders>
